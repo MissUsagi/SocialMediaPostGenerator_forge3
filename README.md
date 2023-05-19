@@ -12,8 +12,8 @@ As someone relatively new to **TypeScript** and **E2E testing**, this event serv
 Due to the immense potential of this project, I have decided to continue its development beyond the event. It is still a work in progress, with some components available only in my private repository. 
 However, I will update it in the future.
 
-Unfortunately, due to limitations with the available OpenAI tokens, I am unable to provide a live demo of the project at this time. :(
-Also images for this post are generated using Open AI + DALL-E. However, to achieve better results, I need to refine the prompts, (and that is kinda expensive ;) ). As a temporary solution, I'm using a mockup instead. 
+Unfortunately, due to limitations with the available OpenAI tokens, I am unable to provide a live demo of the project at this time :(
+Also images for this post are generated using Open AI + DALL-E. However, to achieve better results, I need to refine the prompts, and that is kinda expensive ;) As a temporary solution, I'm using a mockup instead. 
 
 ## Sneak Peek Screenshots
 ![sipg1](https://github.com/MissUsagi/SocialMediaPostGenerator_forge3/assets/99666752/1b207780-3eb6-4be5-bdec-a9b72ce6204a)
