@@ -3,11 +3,11 @@
 This project was developed as part of my participation in the **Vue Forge3** event. The primary objective was to create a versatile social media post generator powered by **OpenAI**. With the assistance of AI, users can effortlessly generate engaging social media posts tailored to their needs.
 
 **Key features of the project include:**
-Vue.js, Open AI, Tailwind CSS, DaisyUI, TypeScript, Cypress, Nuxt.
+_Vue.js, Open AI, Tailwind CSS, DaisyUI, TypeScript, Cypress, Nuxt._
 
-Throughout the development process, I had the opportunity to explore Nuxt for the first time. While navigating this new framework, I relied on the hints and code provided during the challenge.
+Throughout the development process, I had the opportunity to explore **Nuxt** for the first time. While navigating this new framework, I relied on the hints and code provided during the challenge.
 
-As someone relatively new to TypeScript and E2E testing, this event served as a valuable learning experience. I embraced the opportunity to expand my skills in these areas and made significant progress with it.
+As someone relatively new to **TypeScript** and **E2E testing**, this event served as a valuable learning experience. I embraced the opportunity to expand my skills in these areas and made significant progress with it.
 
 Due to the immense potential of this project, I have decided to continue its development beyond the event. It is still a work in progress, with some components available only in my private repository. 
 However, I will update it in the future.
