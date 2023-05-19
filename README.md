@@ -1,4 +1,4 @@
-# Social Media Post Generator with Chat Bot Assistant and Chrome Extension
+## Social Media Post Generator with Chat Bot Assistant and Chrome Extension
 
 This project was developed as part of my participation in the **Vue Forge3** event. The primary objective was to create a versatile social media post generator powered by **OpenAI**. With the assistance of AI, users can effortlessly generate engaging social media posts tailored to their needs.
 
@@ -14,7 +14,7 @@ However, I will update it in the future.
 
 Unfortunately, due to limitations with the available OpenAI tokens, I am unable to provide a live demo of the project at this time. :(
 
-# Sneak Peek Screenshots
+## Sneak Peek Screenshots
 ![sipg1](https://github.com/MissUsagi/SocialMediaPostGenerator_forge3/assets/99666752/1b207780-3eb6-4be5-bdec-a9b72ce6204a)
 ![sipg2](https://github.com/MissUsagi/SocialMediaPostGenerator_forge3/assets/99666752/c1ba5957-ad81-41d7-95bf-ec3b29184ad2)
 
